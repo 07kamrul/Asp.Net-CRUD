@@ -1,0 +1,64 @@
+F:\Asp.Net\Full CRUD\Full CRUD\Full CRUD\bin\Full CRUD.dll.config
+F:\Asp.Net\Full CRUD\Full CRUD\Full CRUD\bin\Full CRUD.dll
+F:\Asp.Net\Full CRUD\Full CRUD\Full CRUD\bin\Full CRUD.pdb
+F:\Asp.Net\Full CRUD\Full CRUD\Full CRUD\bin\roslyn\csc.exe
+F:\Asp.Net\Full CRUD\Full CRUD\Full CRUD\bin\roslyn\csc.exe.config
+F:\Asp.Net\Full CRUD\Full CRUD\Full CRUD\bin\roslyn\csc.rsp
+F:\Asp.Net\Full CRUD\Full CRUD\Full CRUD\bin\roslyn\csi.exe
+F:\Asp.Net\Full CRUD\Full CRUD\Full CRUD\bin\roslyn\csi.exe.config
+F:\Asp.Net\Full CRUD\Full CRUD\Full CRUD\bin\roslyn\csi.rsp
+F:\Asp.Net\Full CRUD\Full CRUD\Full CRUD\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Asp.Net\Full CRUD\Full CRUD\Full CRUD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Asp.Net\Full CRUD\Full CRUD\Full CRUD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Asp.Net\Full CRUD\Full CRUD\Full CRUD\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Asp.Net\Full CRUD\Full CRUD\Full CRUD\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\Asp.Net\Full CRUD\Full CRUD\Full CRUD\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Asp.Net\Full CRUD\Full CRUD\Full CRUD\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Asp.Net\Full CRUD\Full CRUD\Full CRUD\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\Asp.Net\Full CRUD\Full CRUD\Full CRUD\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\Asp.Net\Full CRUD\Full CRUD\Full CRUD\bin\roslyn\Microsoft.Managed.Core.targets
+F:\Asp.Net\Full CRUD\Full CRUD\Full CRUD\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Asp.Net\Full CRUD\Full CRUD\Full CRUD\bin\roslyn\System.Buffers.dll
+F:\Asp.Net\Full CRUD\Full CRUD\Full CRUD\bin\roslyn\System.Collections.Immutable.dll
+F:\Asp.Net\Full CRUD\Full CRUD\Full CRUD\bin\roslyn\System.Memory.dll
+F:\Asp.Net\Full CRUD\Full CRUD\Full CRUD\bin\roslyn\System.Numerics.Vectors.dll
+F:\Asp.Net\Full CRUD\Full CRUD\Full CRUD\bin\roslyn\System.Reflection.Metadata.dll
+F:\Asp.Net\Full CRUD\Full CRUD\Full CRUD\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+F:\Asp.Net\Full CRUD\Full CRUD\Full CRUD\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\Asp.Net\Full CRUD\Full CRUD\Full CRUD\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\Asp.Net\Full CRUD\Full CRUD\Full CRUD\bin\roslyn\vbc.exe
+F:\Asp.Net\Full CRUD\Full CRUD\Full CRUD\bin\roslyn\vbc.exe.config
+F:\Asp.Net\Full CRUD\Full CRUD\Full CRUD\bin\roslyn\vbc.rsp
+F:\Asp.Net\Full CRUD\Full CRUD\Full CRUD\bin\roslyn\VBCSCompiler.exe
+F:\Asp.Net\Full CRUD\Full CRUD\Full CRUD\bin\roslyn\VBCSCompiler.exe.config
+F:\Asp.Net\Full CRUD\Full CRUD\Full CRUD\bin\Antlr3.Runtime.dll
+F:\Asp.Net\Full CRUD\Full CRUD\Full CRUD\bin\EntityFramework.dll
+F:\Asp.Net\Full CRUD\Full CRUD\Full CRUD\bin\EntityFramework.SqlServer.dll
+F:\Asp.Net\Full CRUD\Full CRUD\Full CRUD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Asp.Net\Full CRUD\Full CRUD\Full CRUD\bin\Microsoft.Web.Infrastructure.dll
+F:\Asp.Net\Full CRUD\Full CRUD\Full CRUD\bin\Newtonsoft.Json.dll
+F:\Asp.Net\Full CRUD\Full CRUD\Full CRUD\bin\System.Web.Helpers.dll
+F:\Asp.Net\Full CRUD\Full CRUD\Full CRUD\bin\System.Web.Mvc.dll
+F:\Asp.Net\Full CRUD\Full CRUD\Full CRUD\bin\System.Web.Optimization.dll
+F:\Asp.Net\Full CRUD\Full CRUD\Full CRUD\bin\System.Web.Razor.dll
+F:\Asp.Net\Full CRUD\Full CRUD\Full CRUD\bin\System.Web.WebPages.Deployment.dll
+F:\Asp.Net\Full CRUD\Full CRUD\Full CRUD\bin\System.Web.WebPages.dll
+F:\Asp.Net\Full CRUD\Full CRUD\Full CRUD\bin\System.Web.WebPages.Razor.dll
+F:\Asp.Net\Full CRUD\Full CRUD\Full CRUD\bin\WebGrease.dll
+F:\Asp.Net\Full CRUD\Full CRUD\Full CRUD\bin\EntityFramework.xml
+F:\Asp.Net\Full CRUD\Full CRUD\Full CRUD\bin\EntityFramework.SqlServer.xml
+F:\Asp.Net\Full CRUD\Full CRUD\Full CRUD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Asp.Net\Full CRUD\Full CRUD\Full CRUD\bin\Newtonsoft.Json.xml
+F:\Asp.Net\Full CRUD\Full CRUD\Full CRUD\bin\System.Web.Helpers.xml
+F:\Asp.Net\Full CRUD\Full CRUD\Full CRUD\bin\System.Web.Mvc.xml
+F:\Asp.Net\Full CRUD\Full CRUD\Full CRUD\bin\System.Web.Optimization.xml
+F:\Asp.Net\Full CRUD\Full CRUD\Full CRUD\bin\System.Web.Razor.xml
+F:\Asp.Net\Full CRUD\Full CRUD\Full CRUD\bin\System.Web.WebPages.xml
+F:\Asp.Net\Full CRUD\Full CRUD\Full CRUD\bin\System.Web.WebPages.Deployment.xml
+F:\Asp.Net\Full CRUD\Full CRUD\Full CRUD\bin\System.Web.WebPages.Razor.xml
+F:\Asp.Net\Full CRUD\Full CRUD\Full CRUD\bin\Antlr3.Runtime.pdb
+F:\Asp.Net\Full CRUD\Full CRUD\Full CRUD\obj\Debug\Full CRUD.csprojAssemblyReference.cache
+F:\Asp.Net\Full CRUD\Full CRUD\Full CRUD\obj\Debug\Full CRUD.csproj.CoreCompileInputs.cache
+F:\Asp.Net\Full CRUD\Full CRUD\Full CRUD\obj\Debug\Full CRUD.csproj.CopyComplete
+F:\Asp.Net\Full CRUD\Full CRUD\Full CRUD\obj\Debug\Full CRUD.dll
+F:\Asp.Net\Full CRUD\Full CRUD\Full CRUD\obj\Debug\Full CRUD.pdb
